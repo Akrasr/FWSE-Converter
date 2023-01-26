@@ -1,6 +1,6 @@
 # FWSE-Converter
 
-This tool is made for extracting and importing MCA files in Dual Destinies and Spirit of Justice mobile ports.<br>
+This tool is made for extracting and importing MCA files in Dual Destinies and Spirit of Justice Android ports.<br>
 These MCA files' format in these ports is FWSE (MT Framework's audio format).<br>
 
 # How to use it?
