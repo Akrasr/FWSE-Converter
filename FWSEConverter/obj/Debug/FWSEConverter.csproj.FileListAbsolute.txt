@@ -1,0 +1,7 @@
+C:\Users\userpc\source\repos\FWSEConverter\FWSEConverter\bin\Debug\FWSEConverter.exe.config
+C:\Users\userpc\source\repos\FWSEConverter\FWSEConverter\bin\Debug\FWSEConverter.exe
+C:\Users\userpc\source\repos\FWSEConverter\FWSEConverter\bin\Debug\FWSEConverter.pdb
+C:\Users\userpc\source\repos\FWSEConverter\FWSEConverter\obj\Debug\FWSEConverter.csproj.AssemblyReference.cache
+C:\Users\userpc\source\repos\FWSEConverter\FWSEConverter\obj\Debug\FWSEConverter.csproj.CoreCompileInputs.cache
+C:\Users\userpc\source\repos\FWSEConverter\FWSEConverter\obj\Debug\FWSEConverter.exe
+C:\Users\userpc\source\repos\FWSEConverter\FWSEConverter\obj\Debug\FWSEConverter.pdb
